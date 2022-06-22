@@ -1,0 +1,11 @@
+.selection {
+  width: calc(25vw + 25vh);
+  height: calc(30vw + 30vh);
+  border: 3px solid rgb(0, 162, 255);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  /* margin: auto; */
+}
